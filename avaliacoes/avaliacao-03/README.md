@@ -7,7 +7,7 @@ Para isso :
 4)  Fazer o push para o github na aba avaliacao-03. 
 5)  Postar na entrega da tarefa o link da pasta do github.
 
-<h2>Saídas no Terminal</h2>
+<h2>Saídas no Terminal:</h2>
 
 ![print_terminal](av03.1.png)
 

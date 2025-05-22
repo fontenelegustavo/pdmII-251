@@ -5,3 +5,7 @@ Para isso :
 3) Fazer um print da execução;
 4)  Fazer o push para o github na aba avaliacao-03. 
 5)  Postar na entrega da tarefa o link da pasta do github.
+
+![print_terminal](av03.1.png)
+
+![print_terminal2](av03.5.png)
